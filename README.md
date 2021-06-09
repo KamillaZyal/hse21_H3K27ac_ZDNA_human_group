@@ -6,7 +6,7 @@
 >> - **Организм:** human
 >> - **Сборка генома:** hg19
 >> - **Структура:** ZDNA
->> - **Метка:** H3K27me3
+>> - **Метка:** H3K27ac
 >> - **Типы клеток:** A549, H9
 
 
@@ -22,7 +22,7 @@
 
 ### Введение
 
-**H3K9ME3** - это эпигенетическая модификация гистона **H3** упаковочного белка ДНК. Эта метка, указывает на триметилирование на **9**-х лизин-остатках белка **H3** гистона и часто ассоциируется с гетерохроматином.
+**H3K27ac** - эпигенетическfая модификация упаковочного белка ДНК гистона **H3** . Это знак указывает на то, что ацетилирование из лизина остатка в N-концевом положении 27 белка гистона Н3.
 
 > **H3K9me3** is an epigeneticmodification to the DNA packaging protein Histone **H3**. It is a mark that indicates the tri-methylation at the **9**th lysine residue of the histone **H3** protein and is often associated with heterochromatin.
 
@@ -73,6 +73,6 @@
       ```
 - Найдем места в геноме, где имеется тотальное пересечение всех пиков:
    ### **Координаты chr3:187,432,810-187,482,809**
-   ![Alt-текст](https://github.com/KamillaZyal/hse21_H3K27ac_ZDNA_human/blob/main/images/mergeUCSC.png) 
+   ![Alt-текст]() 
    ### **Координаты chr3:187,432,810-187,482,809**
-   ![Alt-текст](https://github.com/KamillaZyal/hse21_H3K27ac_ZDNA_human/blob/main/images/mergeUCSC.png) 
+   ![Alt-текст]() 
