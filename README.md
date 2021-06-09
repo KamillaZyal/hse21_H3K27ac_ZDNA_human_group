@@ -36,8 +36,6 @@ H3K27ac обогащены регуляторными областями ген�
 | Зялалетдинова Камилла | human | А549 | ENCFF389RXK | ENCFF926NKP | ZDNA_DeepZ  |
 | Никитенко Яна | human | H9 | ENCFF997MGG | ENCFF365GJO | ZDNA_DeepZ  |
 
->Подход машинного обучения DeepZ, который объединяет информацию из полногеномных карт эпигенетических маркеров, факторы транскрипции и сайты связывания РНК-полимеразы, а также карты доступности хромосом.
-
 ### Длинны пиков по эксперементам
 
 ***Гистограмма длин участков A549***
@@ -45,7 +43,7 @@ H3K27ac обогащены регуляторными областями ген�
  ***Гистограмма длин участков H9***
  ![Alt-текст](https://github.com/KamillaZyal/hse21_H3K27ac_ZDNA_human_group/blob/main/images/len_hist.H3K27ac_H9.intersect_with_DeepZ.png)
 #### ***Круговая диаграмма ChIPseeker A549***
-![Alt-текст](https://user-images.githubusercontent.com/85624892/121439068-d79e9c80-c98d-11eb-98fb-82d6b2470ec9.png)
+![Alt-текст](https://github.com/KamillaZyal/hse21_H3K27ac_ZDNA_human_group/blob/main/images/common.intersect.DeepZ.plotAnnoPie.png)
 #### ***Круговая диаграмма ChIPseeker H9***
 ![Alt-текст](https://github.com/KamillaZyal/hse21_H3K27ac_ZDNA_human_group/blob/main/images/chip_seeker.H3K27ac_H9.intersect_with_DeepZ.plotAnnoPie.png)
 
@@ -65,11 +63,16 @@ H3K27ac обогащены регуляторными областями ген�
     - Добавим сustom Tracks командами (аналогично другие файлы):
       ```
       track visibility=dense name="intersect_with_DeepZ"  color=200,0,0  description="H3K27ac_A549.intersect_with_DeepZ.bed"
-      http://genome.ucsc.edu/cgi-bin/hgTracks?     db=hg19&lastVirtModeType=default&lastVirtModeExtraState=&virtModeType=default&virtMode=0&nonVirtPosition=&position=chr3%3A1%2D198022430&hgsid=1124277969_zHkCBeMG5VHxpfBgw5amBtVstF3Z
+      https://github.com/KamillaZyal/hse21_H3K27ac_ZDNA_human/raw/main/data/H3K27ac_A549.intersect_with_DeepZ.bed
       ```
+    - Ссылка на визуализированные данные:
+       ```
+      http://genome.ucsc.edu/cgi-bin/hgTracks?                                db=hg19&lastVirtModeType=default&lastVirtModeExtraState=&virtModeType=default&virtMode=0&nonVirtPosition=&position=chr3%3A1%2D198022430&hgsid=1124277969_zHkCBeMG5VHxpfBgw5amBtVstF3Z
+       ```
 - Найдем места в геноме, где имеется тотальное пересечение всех пиков:
    ### **Координаты chr3:119,180,163-119,185,434**
    ![Alt-текст](https://github.com/KamillaZyal/hse21_H3K27ac_ZDNA_human_group/blob/main/images/intersectUCSC1.png) 
    ### **Координаты chr10:75,543,726-75,547,346**
    ![Alt-текст](https://github.com/KamillaZyal/hse21_H3K27ac_ZDNA_human_group/blob/main/images/intersectUCSC2.png) 
 ### Ассоциация пиков тотального пересечения с генами и делаем GO анализ
+> 
