@@ -66,9 +66,9 @@ H3K27ac обогащены регуляторными областями ген�
       https://github.com/KamillaZyal/hse21_H3K27ac_ZDNA_human/raw/main/data/H3K27ac_A549.intersect_with_DeepZ.bed
       ```
     - Ссылка на визуализированные данные:
-       ```
-      http://genome.ucsc.edu/cgi-bin/hgTracks?                                db=hg19&lastVirtModeType=default&lastVirtModeExtraState=&virtModeType=default&virtMode=0&nonVirtPosition=&position=chr3%3A1%2D198022430&hgsid=1124277969_zHkCBeMG5VHxpfBgw5amBtVstF3Z
-       ```
+```
+      http://genome.ucsc.edu/cgi-bin/hgTracks?         db=hg19&lastVirtModeType=default&lastVirtModeExtraState=&virtModeType=default&virtMode=0&nonVirtPosition=&position=chr3%3A1%2D198022430&hgsid=1124297721_EDRNsmwC5tYtTwUpUk9rIi78ehQT
+```
 - Найдем места в геноме, где имеется тотальное пересечение всех пиков:
    ### **Координаты chr3:119,180,163-119,185,434**
    ![Alt-текст](https://github.com/KamillaZyal/hse21_H3K27ac_ZDNA_human_group/blob/main/images/intersectUCSC1.png) 
