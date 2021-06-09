@@ -14,8 +14,8 @@
 
 |Имя участник | Группа | Тип клеток | Личный репозиторий |
 |--|--|--|--|
-| Зялалетдинова Камилла | 3 | H9 | [https://github.com/KamillaZyal/hse21_H3K27ac_ZDNA_human](https://github.com/KamillaZyal/hse21_H3K27ac_ZDNA_human) |
-| Никитенко Яна | 3 | H1 | [https://github.com/nikyavn/hse21_H3K27ac_ZDNA_human](https://github.com/nikyavn/hse21_H3K27ac_ZDNA_human) |
+| Зялалетдинова Камилла | 3 | А549 | [https://github.com/KamillaZyal/hse21_H3K27ac_ZDNA_human](https://github.com/KamillaZyal/hse21_H3K27ac_ZDNA_human) |
+| Никитенко Яна | 3 | H9 | [https://github.com/nikyavn/hse21_H3K27ac_ZDNA_human](https://github.com/nikyavn/hse21_H3K27ac_ZDNA_human) |
 
 
 ## Отчёт
