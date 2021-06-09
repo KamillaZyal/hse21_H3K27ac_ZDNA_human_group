@@ -43,7 +43,7 @@ H3K27ac обогащены регуляторными областями ген�
  ***Гистограмма длин участков H9***
  ![Alt-текст](https://github.com/KamillaZyal/hse21_H3K27ac_ZDNA_human_group/blob/main/images/len_hist.H3K27ac_H9.intersect_with_DeepZ.png)
 #### ***Круговая диаграмма ChIPseeker A549***
-![Alt-текст](https://github.com/KamillaZyal/hse21_H3K27ac_ZDNA_human_group/blob/main/images/common.intersect.DeepZ.plotAnnoPie.png)
+![Alt-текст](https://github.com/KamillaZyal/hse21_H3K27ac_ZDNA_human_group/blob/main/images/chip_seeker.H3K27ac_A549.intersect_with_DeepZ.plotAnnoPie.png)
 #### ***Круговая диаграмма ChIPseeker H9***
 ![Alt-текст](https://github.com/KamillaZyal/hse21_H3K27ac_ZDNA_human_group/blob/main/images/chip_seeker.H3K27ac_H9.intersect_with_DeepZ.plotAnnoPie.png)
 
