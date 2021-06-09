@@ -72,7 +72,7 @@
       https://github.com/KamillaZyal/hse21_H3K27ac_ZDNA_human/raw/main/data/H3K27ac_A549.intersect_with_DeepZ.bed
       ```
 - Найдем места в геноме, где имеется тотальное пересечение всех пиков:
-  ### **Координаты chr3:187,432,810-187,482,809**
-        ![Alt-текст](https://github.com/KamillaZyal/hse21_H3K27ac_ZDNA_human/blob/main/images/mergeUCSC.png) 
-  ### **Координаты chr3:187,432,810-187,482,809**
-        ![Alt-текст](https://github.com/KamillaZyal/hse21_H3K27ac_ZDNA_human/blob/main/images/mergeUCSC.png) 
+   ### **Координаты chr3:187,432,810-187,482,809**
+   ![Alt-текст](https://github.com/KamillaZyal/hse21_H3K27ac_ZDNA_human/blob/main/images/mergeUCSC.png) 
+   ### **Координаты chr3:187,432,810-187,482,809**
+   ![Alt-текст](https://github.com/KamillaZyal/hse21_H3K27ac_ZDNA_human/blob/main/images/mergeUCSC.png) 
