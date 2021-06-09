@@ -22,10 +22,10 @@
 
 ### Введение
 
-**H3K27ac** - эпигенетическfая модификация упаковочного белка ДНК гистона **H3** . Это знак указывает на то, что ацетилирование из лизина остатка в N-концевом положении 27 белка гистона Н3.
+**H3K27ac** - эпигенетическfая модификация упаковочного белка ДНК гистона **H3** . Это знак указывает на ацетилирование лизина 27 на субъединице белка гистона H3.
 
-> **H3K9me3** is an epigeneticmodification to the DNA packaging protein Histone **H3**. It is a mark that indicates the tri-methylation at the **9**th lysine residue of the histone **H3** protein and is often associated with heterochromatin.
-
+> **H3K27ac** связан с  высокой активацией транскрипции и поэтому определяется как активная энхансерная метка. H3K27ac обнаруживается как в проксимальных, так и в дистальных областях сайта начала транскрипции (TSS).
+H3K27ac обогащены регуляторными областями генов, участвующих в болезни Альцгеймера , в том числе генов тау-белка и амилоидной невропатологии.
 **H3K9ME3** имеет роль не только в злокачественном, но и в нормальном развитии клетки, выступая в качестве репрессора наследственных неуместных генов и поддерживая раннюю целостность клетки и геномную стабильность. В начале 2000 года ряд групп предоставили доказательства его важности в взаимодействии с эволюционно консервативным аминомосковным хромодоменом гетерохроматина белка 1 (HP1), отличительной чертой гетерохроматина, тем самым набирая его к определенному Chromatin Loci (15-17).
 
 > **H3K9me3** has a role not only in malignancy but in normal cellular development, acting as a repressor of lineage inappropriate genes and maintaining early cell integrity and genomic stability. In the early 2000's a number of groups provided evidence of its importance in interacting with the evolutionarily conserved amino terminal chromodomain of heterochromatin protein 1 (HP1), a hallmark of heterochromatin, thereby recruiting it to specific chromatin loci (15–17).
@@ -54,9 +54,11 @@
 - Строим гистограмму длин участков:
  > Для обработки данных используем скрипт *.R*
     - ***Гистограмма длин участков***
+      ![Alt-текст](https://github.com/KamillaZyal/hse21_H3K27ac_ZDNA_human_group/blob/main/images/common.intersect.len_hist.DeepZ.png)
 - Анализируем, где эти пики находятся относительно аннотированных генов:
 > Для обработки данных используем скрипт *.R*
     - ***Круговая диаграмма ChIPseeker***
+      [Alt-текст](https://github.com/KamillaZyal/hse21_H3K27ac_ZDNA_human_group/blob/main/images/common.intersect.DeepZ.plotAnnoPie.png)
 ### Анализ пиков, полученных после тотального пересечения
 - Строим гистограмму длин участков:
  > Для обработки данных используем скрипт *.R*
