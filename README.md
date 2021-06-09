@@ -72,7 +72,7 @@ H3K27ac обогащены регуляторными областями ген�
       ```
     - Ссылка на визуализированные данные:
 ```
-      http://genome.ucsc.edu/cgi-bin/hgTracks?         db=hg19&lastVirtModeType=default&lastVirtModeExtraState=&virtModeType=default&virtMode=0&nonVirtPosition=&position=chr3%3A1%2D198022430&hgsid=1124297721_EDRNsmwC5tYtTwUpUk9rIi78ehQT
+      http://genome.ucsc.edu/s/nikyavn/H3K27ac_ZDNA
 ```
 - Найдем места в геноме, где имеется тотальное пересечение всех пиков:
    ### **Координаты chr3:119,180,163-119,185,434**
