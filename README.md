@@ -42,6 +42,17 @@ H3K27ac обогащены регуляторными областями ген�
 | Зялалетдинова Камилла | human | А549 | ENCFF389RXK | ENCFF926NKP | ZDNA_DeepZ  |
 | Никитенко Яна | human | H9 | ENCFF997MGG | ENCFF365GJO | ZDNA_DeepZ  |
 
+- Строим гистограмму длин участков:
+***Гистограмма длин участков A549***
+ ![Alt-текст](https://github.com/KamillaZyal/hse21_H3K27ac_ZDNA_human_group/blob/main/images/common.intersect.len_hist.DeepZ.png)
+ ***Гистограмма длин участков H9***
+ ![Alt-текст](https://github.com/KamillaZyal/hse21_H3K27ac_ZDNA_human_group/blob/main/images/common.intersect.len_hist.DeepZ.png)
+- Анализируем, где эти пики находятся относительно аннотированных генов:
+#### ***Круговая диаграмма ChIPseeker A549***
+![Alt-текст](https://github.com/KamillaZyal/hse21_H3K27ac_ZDNA_human_group/blob/main/images/common.intersect.DeepZ.plotAnnoPie.png)
+#### ***Круговая диаграмма ChIPseeker H9***
+![Alt-текст](https://github.com/KamillaZyal/hse21_H3K27ac_ZDNA_human_group/blob/main/images/common.intersect.DeepZ.plotAnnoPie.png)
+
 **После пересечения:** -TBA-
 
 ### Длинны пиков по эксперементам
