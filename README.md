@@ -26,13 +26,7 @@
 
 > **H3K27ac** связан с  высокой активацией транскрипции и поэтому определяется как активная энхансерная метка. H3K27ac обнаруживается как в проксимальных, так и в дистальных областях сайта начала транскрипции (TSS).
 H3K27ac обогащены регуляторными областями генов, участвующих в болезни Альцгеймера , в том числе генов тау-белка и амилоидной невропатологии.
-**H3K9ME3** имеет роль не только в злокачественном, но и в нормальном развитии клетки, выступая в качестве репрессора наследственных неуместных генов и поддерживая раннюю целостность клетки и геномную стабильность. В начале 2000 года ряд групп предоставили доказательства его важности в взаимодействии с эволюционно консервативным аминомосковным хромодоменом гетерохроматина белка 1 (HP1), отличительной чертой гетерохроматина, тем самым набирая его к определенному Chromatin Loci (15-17).
 
-> **H3K9me3** has a role not only in malignancy but in normal cellular development, acting as a repressor of lineage inappropriate genes and maintaining early cell integrity and genomic stability. In the early 2000's a number of groups provided evidence of its importance in interacting with the evolutionarily conserved amino terminal chromodomain of heterochromatin protein 1 (HP1), a hallmark of heterochromatin, thereby recruiting it to specific chromatin loci (15–17).
-
-Альтернативный подход к исследованию кода гистона выявил другую роль для **H3K9ME3** в AML. Некоторые доказательства говорят о роли для **H3K9ME3**, связанной с активацией либо в качестве одиночной метки путем избирательного взаимодействия с РНК-полимеразой II для содействия удлинению мРНК и транскрипционной активации или через определенный кодовой код гистона в фундаментальных генах с активацией гистона **H3K9AC** и **H3K4ME2**.
- 
-> An alternative approach to investigating the histone code has identified an opposing role for **H3K9me3** in **AML**. Some evidence postulates a role for **H3K9me3** as associated with activation either as a solo mark by selectively interacting with RNA polymerase II to promote mRNA elongation and transcriptional activation or through a specific histone code co-localizing on fundamental genes with activating histone marks **H3K9ac** and **H3K4me2** .
 
 
 ### Обзор исходных файлов
