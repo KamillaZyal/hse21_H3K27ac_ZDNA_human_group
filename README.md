@@ -46,9 +46,6 @@ H3K27ac обогащены регуляторными областями ген�
 
 ### Длинны пиков по эксперементам
 
-![len_hist.H3K9me3_A549.intersect_with_G4_Li_KPDS.png](https://github.com/ARATOMI/hse21_H3K9me3_G4_human/raw/main/images/len_hist.H3K9me3_A549.intersect_with_G4_Li_KPDS.png)
-![len_hist.H3K9me3_A549.intersect_with_G4.png](https://github.com/KseniyaLyakhova/hse21_H3K9me3_G4_human_group/blob/main/images/len_hist.H3K9me3_A549.intersect_with_G4-1.png)
-![len_hist.H3K9me3_H1.intersect_with_G4](images/len_hist.H3K9me3_H1.intersect_with_G4.png)
 
 ### Анализ пиков, полученных после тотального пересечения
 - Строим гистограмму длин участков:
@@ -58,7 +55,7 @@ H3K27ac обогащены регуляторными областями ген�
 - Анализируем, где эти пики находятся относительно аннотированных генов:
 > Для обработки данных используем скрипт *.R*
     - ***Круговая диаграмма ChIPseeker***
-      [Alt-текст](https://github.com/KamillaZyal/hse21_H3K27ac_ZDNA_human_group/blob/main/images/common.intersect.DeepZ.plotAnnoPie.png)
+      ![Alt-текст](https://github.com/KamillaZyal/hse21_H3K27ac_ZDNA_human_group/blob/main/images/common.intersect.DeepZ.plotAnnoPie.png)
 ### Анализ пиков, полученных после тотального пересечения
 - Строим гистограмму длин участков:
  > Для обработки данных используем скрипт *.R*
