@@ -69,7 +69,7 @@ H3K27ac обогащены регуляторными областями ген�
 
 
 ### Анализ пиков, полученных после тотального пересечения
-Описанные выше два файла были пересечены (bedtools intersect - [Файл]( https://github.com/KamillaZyal/hse21_H3K27ac_ZDNA_human_group/blob/main/data/H3K27ac_DeepZ.intersect.bed), а результат был проверен на наличие дупликатов (объединен bedtools merge - [Файл]( https://github.com/KamillaZyal/hse21_H3K27ac_ZDNA_human_group/blob/main/data/H3K27ac_ZDNA.merge.hg19.bed)).
+Описанные выше два файла были пересечены (bedtools intersect - [Файл]( https://github.com/KamillaZyal/hse21_H3K27ac_ZDNA_human_group/blob/main/data/H3K27ac_DeepZ.intersect.bed)), а результат был проверен на наличие дупликатов (объединен bedtools merge - [Файл]( https://github.com/KamillaZyal/hse21_H3K27ac_ZDNA_human_group/blob/main/data/H3K27ac_ZDNA.merge.hg19.bed)).
 
 - Строим гистограмму длин участков:
 
@@ -113,6 +113,7 @@ H3K27ac обогащены регуляторными областями ген�
 - [Список уникальных генов](https://github.com/KamillaZyal/hse21_H3K27ac_ZDNA_human_group/blob/main/data/H3K27ac_ZDNA_merge_hg19_genes_uniq.txt)
 
 - Результат GO-анализа:
+- 
   ![Alt-текст](https://github.com/KamillaZyal/hse21_H3K27ac_ZDNA_human_group/blob/main/images/GO_analysis_2.png)
 - Наиболее значимыми категориями оказались различные основные метаболические процессы и биосинтетические процессы:
   ![Alt-текст](https://github.com/KamillaZyal/hse21_H3K27ac_ZDNA_human_group/blob/main/images/GO_analysis_3.png) 
