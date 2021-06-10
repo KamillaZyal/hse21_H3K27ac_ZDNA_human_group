@@ -95,7 +95,7 @@ H3K27ac обогащены регуляторными областями ген�
    ### **Координаты chr10:75,543,726-75,547,346**
    ![Alt-текст](https://github.com/KamillaZyal/hse21_H3K27ac_ZDNA_human_group/blob/main/images/intersectUCSC2.png) 
    ### **Координаты chr20:44,562,573-44,564,408**
-   ![Alt-текст](https://github.com/KamillaZyal/hse21_H3K27ac_ZDNA_human_group/blob/main/images/GenomeBrowser5.png) 
+   ![Alt-текст](https://github.com/KamillaZyal/hse21_H3K27ac_ZDNA_human_group/blob/main/images/GenomeBrowser6.png) 
    ### **Координаты chr19:12,847,991-12,848,721**
    ![Alt-текст](https://github.com/KamillaZyal/hse21_H3K27ac_ZDNA_human_group/blob/main/images/GenomeBrowser1.png)
 ### Ассоциация пиков тотального пересечения с генами и делаем GO анализ
