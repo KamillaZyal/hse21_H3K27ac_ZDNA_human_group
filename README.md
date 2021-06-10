@@ -100,8 +100,8 @@ H3K27ac обогащены регуляторными областями ген�
    ![Alt-текст](https://github.com/KamillaZyal/hse21_H3K27ac_ZDNA_human_group/blob/main/images/GenomeBrowser1.png)
 ### Ассоциация пиков тотального пересечения с генами и делаем GO анализ
 - Было ассоциировано 14208 пиков 
-- [Список ассоциированных генов](src/chip_seeker.R))
-- [Список уникальных генов](src/chip_seeker.R))
+- [Список ассоциированных генов](https://github.com/KamillaZyal/hse21_H3K27ac_ZDNA_human_group/blob/main/data/H3K27ac_ZDNA_merge_hg19_genes.txt)
+- [Список уникальных генов](https://github.com/KamillaZyal/hse21_H3K27ac_ZDNA_human_group/blob/main/data/H3K27ac_ZDNA_merge_hg19_genes_uniq.txt)
 
 - Результат GO-анализа:
   ![Alt-текст](https://github.com/KamillaZyal/hse21_H3K27ac_ZDNA_human_group/blob/main/images/GO.png)
