@@ -74,12 +74,12 @@ H3K27ac обогащены регуляторными областями ген�
 - Строим гистограмму длин участков:
 
  #### ***Гистограмма длин участков***
- ![Alt-текст](https://github.com/KamillaZyal/hse21_H3K27ac_ZDNA_human_group/blob/main/images/common.intersect.len_hist.DeepZ.png)
+ ![Alt-текст](https://github.com/KamillaZyal/hse21_H3K27ac_ZDNA_human_group/blob/main/images/common_intersect.len_hist.DeepZ.png)
  **После пересечения:** 7340
 - Анализируем, где эти пики находятся относительно аннотированных генов:
 
 #### ***Круговая диаграмма ChIPseeker***
-![Alt-текст](https://github.com/KamillaZyal/hse21_H3K27ac_ZDNA_human_group/blob/main/images/common.intersect.DeepZ.plotAnnoPie.png)
+![Alt-текст](https://github.com/KamillaZyal/hse21_H3K27ac_ZDNA_human_group/blob/main/images/common_intersect.DeepZ.plotAnnoPie.png)
 ### Визуализация данных в геномном браузере
 - Визуализируем в UCSC Genome Browser все исходные .bed файлы,набор участков, полученный после их тотального пересечения:
     - Добавим сustom Tracks командами (аналогично другие файлы):
